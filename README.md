@@ -1,4 +1,4 @@
-# rn-square-tabbar
+# rn-shiny-tab-bar
 
 Custom animated shiny-tab-bar for react-native.
 
